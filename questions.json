@@ -1,0 +1,21 @@
+{
+  "userIdCounter": 1,
+  "user": {
+    "1": {
+      "WhatsApp": {
+        "AI": {
+          "user@example.com": {
+            "1": {
+              "q": "What is your name?",
+              "a": "My name is Bot."
+            },
+            "2": {
+              "q": "Where are you from?",
+              "a": "I am from the internet."
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "userIdCounter": 8,
+  "user": {
+    "0": {
+      "example": {
+        "email": "example@gmail.com",
+        "password": "example",
+        "paid": false
+      }
+    },
+    "1": {
+      "shaheer": {
+        "email": "shaheerali@gmail.com",
+        "password": "fwg",
+        "paid": true
+      }
+    },
+    "2": {
+      "admin": {
+        "email": "admin@gmail.com",
+        "password": "fwg",
+        "paid": false
+      }
+    },
+    "3": {
+      "fgdhgdh": {
+        "email": "admin@gmail.com",
+        "password": "fwg",
+        "paid": false
+      }
+    },
+    "4": {
+      "fgdhgdh": {
+        "email": "admin@gmail.com",
+        "password": "fwg",
+        "paid": false
+      }
+    },
+    "5": {
+      "dsfg": {
+        "email": "admin@gmail.com",
+        "password": "fwg",
+        "paid": false
+      }
+    },
+    "6": {
+      "ggsdgdgdsg": {
+        "email": "admin@gmail.com",
+        "password": "fwg",
+        "paid": false
+      }
+    },
+    "7": {
+      "tgdgdhg": {
+        "email": "admin@gmail.com",
+        "password": "fwg",
+        "paid": false
+      }
+    },
+    "8": {
+      "fsg": {
+        "email": "admin@gmail.com",
+        "password": "fwg",
+        "paid": false
+      }
+    }
+  }
+}
