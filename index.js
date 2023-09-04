@@ -16,6 +16,8 @@ app.use(cors()); // Enable CORS for all routes
 app.use(express.static(path.join(__dirname, 'public')));
 const corsOptions = {
   origin: 'http://127.0.0.1:5500',
+  methods: 'PUT, GET, POST, DELETE, OPTIONS',
+  allowedHeaders: 'Content-Type',
 };
 
 app.use(cors(corsOptions));
